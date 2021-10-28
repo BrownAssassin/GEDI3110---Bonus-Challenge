@@ -1,0 +1,5 @@
+In the low fidelity prototype, just as it is in Valorant, 
+the player shoots a bullet when you left click with the mouse. 
+This gets a bullet from the object pool and shoots it at a set 
+bullet speed. When the bullet collides with another object it is 
+added back to the object pool.
