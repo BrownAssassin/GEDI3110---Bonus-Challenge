@@ -1,4 +1,8 @@
-# Game-Engine-Bonus-Challenge
+# GEDI3110 - Bonus Challenge
 
-100748771 - Mrinank Sivakumar
-100748418 - Farhan Irani
+---
+
+> ## INFR3110U - Game Engine Design and Implementation
+> ### Bonus Challenge
+> - 100748771 - Mrinank Sivakumar
+> - 100748418 - Farhan Irani
